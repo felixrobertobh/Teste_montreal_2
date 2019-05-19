@@ -1,0 +1,24 @@
+Titulo do Case de Teste	/ Objetivo do teste																	
+# - Validar acesso de usuarios / Validar permissoes dos usuarios com diferentes perfis do sistema.																	
+# - Validar layout da tela / Validar se a tela esta quebrando, distorcendo campos ao maximizar o navegador e erros ortograficos.
+
+# - Validar o retorno das informacoes da Empresa / Validar as informacoes se estao sendo retornadas ao acessar o caminho MENU > Empresa 	
+
+# - Validar obrigatoriedade no Cadastro de Tipo de Fornecimento/ Validar campos obrigatoriso ao Cadastrar um Tipo de fornecimento
+
+# - Duplidade Tipo de fornecimento / Criacao de tipo de fornecimento com o mesmo nome
+
+# - Validar quantidade vinculos / Validar quantidade de vinculos por tipo de fornecimento em cada empresa
+
+# - Validar Vinculos por empresa / validar se ao vincular um Tipo de Fornecimento pode ser repetido em outra empresa
+
+# - Validar o retorno das informacoes da Tipo Fornecimento/ Validar as informacoes se estao sendo retornadas ao acessar o caminho MENU > Empresa > Tipo de Fornecimento
+
+# - Validar campos obrigatoriso no Cadastro de empresa / Validar campos obrigatoriso ao Cadastrar uma empresa
+
+# - Duplidade de Empresa / Criacao de Empresa com o mesmo nome
+
+# - Validar mensagem apos o cadastro de empresa / Verificar se o sistema retorna a tela de lista de empresas e e exibido a mensagem de confirmacao.
+
+# - 
+

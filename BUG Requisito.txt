@@ -1,0 +1,6 @@
+Abertura de BUG para requisito
+1 - A palavra "usuario" deve ser alterada para "ator", pois esta expressao deixa confusa.
+
+2 - Caso de uso e um CRUD, entao o atores deverao estar todos no grupo administrador. Com isso a descricao do item 2.2.Pre-requisitos/Premissas precisa ser modificada para "O Ator pertencer ao grupo de administrador."
+
+3 - Excluir do fluxo principal o item 5 e 7 
