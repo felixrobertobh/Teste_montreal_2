@@ -1,0 +1,10 @@
+# O administrador cadastrando uma determinada empresa, podera inclui-la em diferentes perfis?
+
+# Finalizando um cadastro de empresa, automaticamente abrira um popup ou a tela para vincular a empresa?
+
+# Podera existir empresa sem algum vinculo?
+
+# E necessario ter uma tela so para cadastro de Tipo de Fornecimento?
+
+# Quais criterios o ator utilizara para efetuar a busca de Tipo de Fornecimento?
+
